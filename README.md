@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Max 👋
 
-<!--
-**barreiro-max/barreiro-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Who I am
+I’m a Computer Science student and an aspiring iOS developer.  
+I’ve built several pet projects and enjoy exploring ideas, designing, and starting new implementations.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages & Frameworks:** `Swift`, `SwiftUI`, `SwiftData`, `SwiftTesting`, `WidgetKit`  
+- **Backend:** `Firebase SDK`  
+- **Tools & DevOps:** `Git`, `Docker`, `Swift Package Manager`  
+- **IDE & Design Tools:** `Xcode`, `Figma`, `SF Symbols`  
+- **iOS Features & Skills:** `Localization`, `Accessibility`, `UserNotifications`
+
+---
+
+### 🔭 Currently working on
+- Catching ideas, designing, and beginning new iOS projects  
+
+---
+
+### 🌟 My Favorite Repo
+- [PushLearn](https://github.com/barreiro-max/PushLearn#$0) — I worked with Firebase SDK in this project, and it was very interesting for learning and applying architectural patterns in practice.  
+
+---
+
+### 🎯 Goals
+- Contribute to projects that simplify the lives of tens of thousands (or more) users.
+- Continuously explore new iOS APIs and modern architectural patterns.
+- Collaborate effectively in teams to build scalable and maintainable iOS applications.
+
+---
+
+### 📫 How to reach me
+- LinkedIn: [Barreiro Fontela Max](#)  
+- Email: `barreiro.fontela.max@gmail.com`  
+
+---
+
+### 😄 Fun Facts
+- Passionate about mathematics and problem-solving  
+- I enjoy playing volleyball as an amateur  
+- Proud cat owner 🐱  
+- Participated in a university-wide mathematics olympiad and contributed to writing the theses
