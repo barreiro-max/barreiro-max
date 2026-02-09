@@ -33,7 +33,7 @@ I’ve built several pet projects and enjoy exploring ideas, designing, and star
 ---
 
 ### 📫 How to reach me
-- LinkedIn: [Barreiro Fontela Max](#)  
+- LinkedIn: [Barreiro Fontela Max](https://www.linkedin.com/in/maksym-barreiro-fontela?utm_source=share_via&utm_content=profile&utm_medium=member_ios)  
 - Email: `barreiro.fontela.max@gmail.com`  
 
 ---
