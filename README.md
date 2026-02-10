@@ -16,7 +16,7 @@ I’ve built several pet projects and enjoy exploring ideas, designing, and star
 ---
 
 ### 🔭 Currently working on
-- Catching ideas, designing, and beginning new iOS projects  
+- [GraphDSL](https://github.com/barreiro-max/GraphDSL) — A Swift DSL for working with graphs that can be represented and visualized using SwiftUI.  
 
 ---
 
